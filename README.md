@@ -1,5 +1,5 @@
 # exams
-**Instructions to run MVC Framework**
+**Instructions to run Framework**
 
 = open the folder in Visual Studio Code
 - create virtual environment and activate it ./Activate
